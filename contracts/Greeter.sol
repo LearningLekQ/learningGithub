@@ -25,4 +25,8 @@ contract Greeter {
     function testing_lagi()public returns(string memory){
         return "testing lekq";
     }
+
+    function lul()public returns(string memory){
+        return "lulz";
+    }
 }
