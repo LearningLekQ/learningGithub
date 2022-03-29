@@ -22,4 +22,7 @@ contract Greeter {
     function abalabal()public returns(string memory){
         return "henlo guys";
     }
+    function testing_lagi()public returns(string memory){
+        return "testing lekq";
+    }
 }
