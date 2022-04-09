@@ -26,6 +26,6 @@ contract Greeter {
         return "testing lekq";
     }
     function foo() public{
-        testing_lagi();
+        greet();
     }
 }
